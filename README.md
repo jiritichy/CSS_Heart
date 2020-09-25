@@ -2,4 +2,4 @@
 
 This is my first coding exercise. 
 
-**The goal is have pulsing heart in the center of webpage using only CSS.**
+**The goal is to have pulsing heart in the center of webpage using only CSS.**
